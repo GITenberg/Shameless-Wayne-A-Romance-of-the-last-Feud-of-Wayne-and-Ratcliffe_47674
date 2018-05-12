@@ -1,10 +1,16 @@
 _repo: Shameless-Wayne-A-Romance-of-the-last-Feud-of-Wayne-and-Ratcliffe_47674
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47674-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Sutcliffe, Halliwell
     gutenberg_agent_id: '42289'
     url: http://www.gutenberg.org/2009/agents/42289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47674#Shameless-Wayne-A-Romance-of-the-last-Feud-of-Wayne-and-Ratcliffe
 gutenberg_issued: '2014-12-15'
 gutenberg_type: Text
 identifiers:
